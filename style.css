@@ -1,3 +1,5 @@
 body {
-  background: white;
+  background: black;
 }
+<h1 style="color:white;">This heading will be white.</h1>
+<h2 style="color:white;">This heading will be white.</h2>
